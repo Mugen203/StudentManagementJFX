@@ -1,4 +1,6 @@
-package com.studentmanagementjfx;
+package com.studentmanagementjfx.Test;
+
+import com.studentmanagementjfx.Database;
 
 import java.sql.Connection;
 import java.sql.DriverManager;

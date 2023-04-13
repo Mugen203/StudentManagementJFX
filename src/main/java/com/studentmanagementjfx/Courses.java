@@ -1,4 +1,4 @@
-package StudentManagementSystem;
+package com.studentmanagementjfx;
 
 public class Courses {
 	private String courseID;
